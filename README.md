@@ -1,7 +1,7 @@
-#Problem Statement 1:
+# Problem Statement 1 (Supervised ML):
 
-* To predict the rate of interest for a loan applicant based on his overall profile using classification techniques.
+- Predicting the Interest rate on a loan application given pertaining parameters related to loan.
 
-#Problem Statement 2:
+# Problem Statement 2 (Unsupervised ML):
 
-* Segmenting customers into various interest rate brackets using unsupervised machine learning techniques.
+- To arrive at the segmentation of customers concerning their past data of loans on different parameters. This segmentation will then be used to map different interest rate slabs(1/2/3)to these customers.
